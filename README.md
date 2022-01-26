@@ -1,2 +1,3 @@
 # Predicting-Drug-induced-Deaths-Using-Education-Attainment-and-Household-Data-in-Ohio-Counties
-This one-month long research project mainly focused on predicting risk factors that may have contributed to drug-induced death cases in Ohio.
+Please find all coding documents under the branch Codes
+Please find all the related documents and data under the branch Data
